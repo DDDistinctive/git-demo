@@ -1,19 +1,17 @@
-hello word!1111111
-hello word!6666666666
-<<<<<<< HEAD
-hello word!999
-hello word!mastertxt
+hello word!
+hello word!
 hello word!
 hello word!33333
 hello word!4444
 hello word!
 hello word!master
-hello word!222222
-hello word!777777
 hello word!
 hello word!
 hello word!
 hello word!
 hello word!
-hello word!8888888
+hello word!
+hello word!
+hello word!
 hello word!last
+1111111111111111111
